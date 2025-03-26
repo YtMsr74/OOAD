@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patlab2", "patlab2\patlab2.csproj", "{A5584C4A-0B05-4545-B42B-96F5D6ED8EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5584C4A-0B05-4545-B42B-96F5D6ED8EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5584C4A-0B05-4545-B42B-96F5D6ED8EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5584C4A-0B05-4545-B42B-96F5D6ED8EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5584C4A-0B05-4545-B42B-96F5D6ED8EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000D7F8F-B557-40F8-B4B0-869EF51397A2}
+	EndGlobalSection
+EndGlobal
